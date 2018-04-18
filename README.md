@@ -1,4 +1,4 @@
-<img src="https://avatars1.githubusercontent.com/u/33847721?s=200" align="right">
+<img src="https://avatars1.githubusercontent.com/u/33847721" align="right">
 
 # Sobre a CADES [<img width="24" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg?sanitize=true">](https://www.facebook.com/groups/1179653102165682) [<img width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2000px-WhatsApp.svg.png">](https://chat.whatsapp.com/H6UWSSayqvO7kTeWKJ9jdb)
 > Informações gerais sobre a CADES
