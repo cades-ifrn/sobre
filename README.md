@@ -5,6 +5,7 @@
 
 * [Entre no nosso grupo no Facebook](https://www.facebook.com/groups/1179653102165682)
 * [Entre no nosso grupo no Whatsapp](https://chat.whatsapp.com/H6UWSSayqvO7kTeWKJ9jdb)
+* [Entre na nossa sala no Google Hangouts](http://bit.ly/cades-hangouts)
 
 ## CADES
 
