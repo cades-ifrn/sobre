@@ -1,12 +1,15 @@
 <img src="https://avatars1.githubusercontent.com/u/33847721" align="right">
 
-# Sobre a CADES [<img width="24" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg?sanitize=true">](https://www.facebook.com/groups/1179653102165682) [<img width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2000px-WhatsApp.svg.png">](https://chat.whatsapp.com/H6UWSSayqvO7kTeWKJ9jdb)
+# Sobre a CADES [<img width="24" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/facebook.svg?sanitize=true">](https://www.facebook.com/cadesifrn/) [<img width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2000px-WhatsApp.svg.png">](https://bit.ly/cades-wpp)[<img width="24" src="https://png.icons8.com/color/1600/slack.png">](https://bit.ly/cades-slack)
+
 > Informações gerais sobre a CADES
 
+* [Curta nossa página no Facebook](https://www.facebook.com/cadesifrn/)
 * [Entre no nosso grupo no Facebook](https://www.facebook.com/groups/1179653102165682)
-* [Entre no nosso grupo no Whatsapp](https://chat.whatsapp.com/H6UWSSayqvO7kTeWKJ9jdb)
+* [Entre no nosso grupo no Whatsapp](https://bit.ly/cades-wpp)
+* [Entre no nosso grupo no Slack](https://bit.ly/cades-slack)
 * [Entre na nossa sala no Google Hangouts](http://bit.ly/cades-hangouts)
-* [Escreva-se no nosso canal no Youtube](https://www.youtube.com/channel/UCWPEZj5zCybArs3WrQLQQWA)
+* [Escreva-se no nosso canal no Youtube](https://bit.ly/cades-youtube)
 
 ## CADES
 
