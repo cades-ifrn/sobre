@@ -10,6 +10,7 @@
 * [Entre no nosso grupo no Slack](https://bit.ly/cades-slack)
 * [Entre na nossa sala no Google Hangouts](http://bit.ly/cades-hangouts)
 * [Escreva-se no nosso canal no Youtube](https://bit.ly/cades-youtube)
+* [Fique por dentro com nosso quadro de Visão Geral](http://bit.ly/cades-quadro)
 
 ## CADES
 
