@@ -9,6 +9,7 @@
 * [Entre no nosso grupo no Whatsapp](https://bit.ly/cades-wpp)
 * [Entre no nosso grupo no Slack](https://bit.ly/cades-slack)
 * [Entre na nossa sala no Google Hangouts](http://bit.ly/cades-hangouts)
+* [Entre no nosso servidor no Discord](http://bit.ly/cades-discord)
 * [Escreva-se no nosso canal no Youtube](https://bit.ly/cades-youtube)
 * [Fique por dentro com nosso quadro de Visão Geral](http://bit.ly/cades-quadro)
 
